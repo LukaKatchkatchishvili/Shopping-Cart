@@ -1,0 +1,12 @@
+{
+  "title": "hello world",
+  "description": {
+    "part1": "whats up guys it desc",
+    "part2": "whats up guys it desc222222"
+  },
+  "logo": "LAMA.",
+  "nav": {
+    "register": "REGISTER",
+    "login": "LOGIN"
+  }
+}
